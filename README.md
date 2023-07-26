@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IkanAsinn
-- 👀 I’m interested in Code and Her
-- 🌱 I’m currently learning C Programming Language and of course, CTF.
+- 🌱 Cyber Security Student but mislead to Web Development.
+- 👀 Jquery, .NET, Azure Cloud, Laravel, SQL.
 - 📫 You can contact me on qbin.hermawan@gmail.com
 
 <!---

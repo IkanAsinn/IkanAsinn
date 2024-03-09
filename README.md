@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IkanAsinn
-- 🌱 Cyber Security Student but mislead to Web Development.
-- 👀 Jquery, .NET, Azure Cloud, Laravel, SQL.
+- 👨‍🎓 Cyber Security Undergraduate at Bina Nusantara University but misleaded to Web Programming 🤦
+- 🧠 Jquery, .NET, Azure Cloud, Laravel, SQL.
 - 📫 You can contact me on qbin.hermawan@gmail.com
 
 <!---
